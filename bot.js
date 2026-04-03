@@ -6,6 +6,7 @@ const bot = mineflayer.createBot({
   host: 'terra-dos-cubos.aternos.me',
   port: 25565,
   username: 'BotAFK'
+  version: '26.1.1'
 })
 
 bot.on('spawn', () => {
