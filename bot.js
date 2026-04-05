@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 function createBot(){
 
 const bot = mineflayer.createBot({
-  host: 'terra-dos-cubos.aternos.me',
+  host:'terra-dos-cubos.aternos.me',
   port: 55157,
   username: 'BotAFK',
   version: '1.21.8'
